@@ -4,7 +4,7 @@
   "description": "Elm 2048",
   "scripts": {
     "start": "webpack-dev-server",
-    "build": "webpack -p"
+    "build": "webpack -d"
   },
   "keywords": [],
   "author": "Jigar Gosar <jigar.gosar@gmail.com>",
