@@ -4,7 +4,7 @@
   "description": "Elm 2048",
   "scripts": {
     "start": "webpack-dev-server",
-    "build": "webpack -d",
+    "build": "webpack-cli -p",
     "deploy" : "webpack-cli -d && surge --domain elm-2048.surge.sh ./dist"
   },
   "keywords": [],
