@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/elm-template.iml" filepath="$PROJECT_DIR$/elm-template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/elm-2048.iml" filepath="$PROJECT_DIR$/elm-2048.iml" />
     </modules>
   </component>
 </project>

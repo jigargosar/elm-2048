@@ -1,7 +1,7 @@
 {
-  "name": "elm-template",
+  "name": "elm-2048",
   "version": "1.0.0",
-  "description": "Elm Template",
+  "description": "Elm 2048",
   "scripts": {
     "start": "webpack-dev-server",
     "build": "webpack -p"
