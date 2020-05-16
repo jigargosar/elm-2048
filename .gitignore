@@ -1,0 +1,10 @@
+elm-stuff
+workspace.xml
+src/elm.js
+node_modules
+.cache
+cache
+dist
+/.idea/$CACHE_FILE$
+scratch-pad.txt
+pnpm-debug.log
