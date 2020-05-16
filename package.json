@@ -4,7 +4,8 @@
   "description": "Elm 2048",
   "scripts": {
     "start": "webpack-dev-server",
-    "build": "webpack -d"
+    "build": "webpack -d",
+    "deploy" : "webpack-cli -d && surge --domain elm-2048.surge.sh ./dist"
   },
   "keywords": [],
   "author": "Jigar Gosar <jigar.gosar@gmail.com>",
